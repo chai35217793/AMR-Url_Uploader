@@ -2,7 +2,7 @@ import logging
 import math
 import os
 import time
-from pyrogram import InlineKeyboardButton, InlineKeyboardMarkup
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 async def progress_for_pyrogram(
     current,

@@ -1,3 +1,4 @@
+sqlalchemy-mongodb
 aiohttp
 beautifulsoup4
 hachoir

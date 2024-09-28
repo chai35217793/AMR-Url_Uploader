@@ -1,3 +1,5 @@
+mongoengine
+motor
 aiohttp
 beautifulsoup4
 hachoir
@@ -15,3 +17,4 @@ youtube-dl
 olefile
 flask
 gunicorn
+pymongo
